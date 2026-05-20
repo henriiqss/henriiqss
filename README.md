@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquef.end@gmail.com)
 
 
-![GitHub Contribution Grid](https://ghchart.rshah.org/0e75b6/henriiqss)
+![GitHub Contribution Grid](https://ghchart.rshah.org/henriiqss)
 
 
 ## Tecnologias que estudo! 
