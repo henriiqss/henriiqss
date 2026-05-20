@@ -4,9 +4,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquef.end@gmail.com)
 
 
-![Henriiqss GitHub stats](https://github-readme-stats.vercel.app/api?username=henriiqss&show_icons=true&theme=dark)
+![Henriiqss GitHub stats](https://github-readme-stats.vercel.app/api?username=henriiqss&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriiqss&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriiqss&layout=compact&theme=tokyonight)
 
 ## Tecnologias que estudo! 
 
